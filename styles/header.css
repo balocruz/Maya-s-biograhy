@@ -1,0 +1,25 @@
+.Hero{
+  height: 100vh;
+  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3));
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  
+  text-align: center;
+}
+
+.Hero h1{
+  font-family: 'Playfair Dislay', Serif;
+  font-size: 80px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid rgb(92, 89, 89);
+}
+
+.Hero h2{
+  font-family: 'Playfair Dislay', Serif;
+  border-bottom: 2px solid rgb(92, 89, 89);
+}

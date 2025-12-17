@@ -1,0 +1,30 @@
+.body{
+  margin: 0;
+  font-family: Roboto, sans-serif;
+  color: #333;
+  line-height: 1.6;;
+}
+
+section,.gallery{
+  padding: 80px 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+section h2, .gallery h2 {
+  font-family: 'Playfair Dislay', Serif;
+  font-size: 36px;
+  color: #b5838d;
+  border-bottom: 2px solid #ffb4a2;
+  display: inline-block;
+}
+
+.quote-container{
+  background-color: #f8edeb;
+  padding: 40px;
+  text-align: center;
+  font-style: italic;
+  font-size: 24px;
+  margin: 40px 0;
+}
+
