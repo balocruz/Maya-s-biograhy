@@ -2,7 +2,7 @@
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 500px;
   position: relative;
   margin: auto;
 }
@@ -84,4 +84,5 @@
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+
 }
